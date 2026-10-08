@@ -18,7 +18,7 @@ channel, not by how big the channel is.
 Paste this into Claude:
 
 ```
-https://github.com/Jakeschincariol/youtube-agent-skill
+hthttps://youtu.be/dKbLTnnEog8?si=ZRprLISMMp9ikiQOtps://github.com/Jakeschincariol/youtube-agent-skill
 
 Install this skill, then confirm /yt-script works.
 ```
